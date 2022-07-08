@@ -1,0 +1,16 @@
+.container .text {
+    background-color: pink;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+div p {
+    background-color: lightblue;
+    color: red;
+    font-size: 20px;
+    text-align: center;}
+
+.container .fit {background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;}
